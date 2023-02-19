@@ -1,0 +1,25 @@
+body {
+    background-color: darkgrey;
+}
+ol {
+    margin-left: 500px;
+}
+.btn-btn1 {
+    text-decoration: none;
+    background-color: mediumaquamarine;
+    color: whitesmoke;
+    margin: 75px 30px;
+}
+.btn-btn1:hover {
+    opacity: 0.7;
+}
+h1 {
+    margin-left: 75px;
+}
+h2 {
+    margin-left: 630px;
+    color: aqua;
+}
+p {
+    margin-left: auto;
+}
