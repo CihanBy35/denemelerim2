@@ -1,0 +1,59 @@
+.box {
+    margin: 50px;
+    padding: 45px 50px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 300px;    
+}
+.boxtwo {
+    margin: 50px;
+    padding: 45px 50px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 400px;   
+}
+.boxthree {
+    margin: 50px;
+    padding: 36px 100px;
+    width: 200px;
+    height: 70px;
+    text-align: unset;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.b1 {
+    background-color: aqua;
+}
+.b2 {
+    background-color: aquamarine;
+}
+.b3 {
+    background-color: mediumturquoise
+}
+.ana {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    background-color: gray;
+}
+.img {
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.footer{
+    text-align: center;
+    position: relative;
+    top: 500px;
+    right: 500px
+}
